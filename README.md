@@ -1,1 +1,1 @@
-# income-bracket-prediction
+# Income Bracket Prediction
